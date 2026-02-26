@@ -119,4 +119,4 @@ Movies with strong music performance often correlated with better box office res
 Post-2015 years showed significant revenue growth trends.
 
 6.Screenshot
-Example : (
+Example : (https://github.com/kishorereddy7111/Telugu-film-industry-excel-analysis/blob/main/Screenshot%202026-02-26%20164107.png)
