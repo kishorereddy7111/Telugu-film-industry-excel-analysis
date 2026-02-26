@@ -116,7 +116,7 @@ High-budget films did not always guarantee higher profits.
 
 Movies with strong music performance often correlated with better box office results.
 
-6.Screenshot
-Example : 
-
 Post-2015 years showed significant revenue growth trends.
+
+6.Screenshot
+Example : (
